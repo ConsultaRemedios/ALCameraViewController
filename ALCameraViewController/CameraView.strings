@@ -6,13 +6,13 @@
   Copyright (c) 2015 zero. All rights reserved.
 */
 
-"permissions.title" = "Camera Access Denied";
-"permissions.description" = "Please enable camera access in your privacy settings";
+"permissions.title" = "Acesso negado";
+"permissions.description" = "Ative o acesso da câmera nas suas configurações de privacidade";
 
-"permissions.library.title" = "Photos Access Denied";
-"permissions.library.description" = "Please enable photo library access in your privacy settings";
+"permissions.library.title" = "Acesso negado";
+"permissions.library.description" = "Ative o acesso à biblioteca de fotos em suas configurações de privacidade";
 
-"permissions.settings" = "Settings";
+"permissions.settings" = "Configurações";
 
-"error.cant-fetch-photo" = "Unable to fetch image";
-"error.cant-fetch-photo.description" = "Please check your network settings";
+"error.cant-fetch-photo" = "Não foi possível buscar a imagem";
+"error.cant-fetch-photo.description" = "Por favor, verifique suas configurações de rede";
